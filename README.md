@@ -20,5 +20,6 @@ I’m currently working on Deepening my expertise in Data Science and building p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sLasherGod10&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+![image alt](https://github.com/sLasherGod10/sLasherGod10/blob/cdcd114bb3ff67a052a9ceeda6c4744578d504e3/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
