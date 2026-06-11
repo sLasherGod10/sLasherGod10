@@ -1,6 +1,8 @@
 # 💫 About Me:
-👋 Hi there, I'm Atharva Khaire<br>🔭 
-![image alt](https://github.com/sLasherGod10/sLasherGod10/blob/df30966182a3c34357154961a01ef792a85b3b88/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+
+
+# 👋 Hi there, I'm Atharva Khaire
+![image alt](https://github.com/sLasherGod10/sLasherGod10/blob/fda25a2b2d16f3d265c32b3f42bd470d782d9702/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 
 
