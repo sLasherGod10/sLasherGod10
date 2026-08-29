@@ -22,22 +22,17 @@
 
 ## 💫 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding animation"/>
+<div align="center">
 
-```yaml
-whoami:
-  name: "Atharva Khaire"
-  role: "AI • Data Science • Full Stack • Research"
-  education: "B.Tech CSE (Data Science) @ DY Patil International University"
-  currently_building: "AI, Data Science & Research Systems"
-  currently_exploring: "Multi-Agent Systems & Intelligent Applications"
-  looking_to_collaborate_on: "Open Source • AI Tools • Research Projects"
-  reach_me: "atharvatkhaire.ak10@gmail.com"
-```
+<img src="./assets/about-terminal.svg" alt="whoami terminal" width="620"/>
 
-🔭 Building AI, Data Science & Research Systems &nbsp;·&nbsp; 🌱 Exploring Multi-Agent Systems &nbsp;·&nbsp; 👯 Open to Collaboration
+<br><br>
 
-<br clear="right">
+<img src="https://img.shields.io/badge/🔭_Building-AI,_Data_Science_%26_Research_Systems-1a1b27?style=for-the-badge&labelColor=16161e"/>
+<img src="https://img.shields.io/badge/🌱_Exploring-Multi--Agent_Systems-1a1b27?style=for-the-badge&labelColor=16161e"/>
+<img src="https://img.shields.io/badge/👯_Open_to-Collaboration-1a1b27?style=for-the-badge&labelColor=16161e"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=3&section=header" width="100%">
 
